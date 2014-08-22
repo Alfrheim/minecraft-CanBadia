@@ -1,0 +1,28 @@
+name: CanBadia
+main: org.canbadia.CanBadia
+version: 0.1
+
+commands:
+   trade:
+     description: trade an item for another
+     usage: /market wood diamond 4
+
+   god:
+     description: Oh! My God!
+     usage: /<command>
+
+   godsfullpower:
+     description: A Command
+     usage: /<command>  [player]
+
+   market:
+     description: A Command
+     usage: /<command>
+
+   class:
+     description: A Command
+     usage: /<command>
+
+   wall:
+     description: A Command
+     usage: /<command>
